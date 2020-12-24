@@ -1,0 +1,1 @@
+import{o as e,c as n,a as r}from"./index.e74f5346.js";var s={props:{name:{type:String,default:""}}};const a={class:"m-icon"},i={class:"icon","aria-hidden":"true"};s.render=function(s,o,t,c,l,d){return e(),n("div",a,[(e(),n("svg",i,[r("use",{"xlink:href":t.name},null,8,["xlink:href"])]))])};export{s};
